@@ -196,25 +196,25 @@ To install, we simply navigate to our specified download folder, and run the spl
 We accept the license agreement and press next.
 You can change options here as well, such as default port, but there is no need to do so now.
 
-![Pasted image 20250711132056.png|300](Pasted%20image%2020250711132056.png|300)
+![Pasted image 20250711132056.png](Pasted%20image%2020250711132056.png)
 
 We create an admin account and press next
 
-![Pasted image 20250711132129.png|300](Pasted%20image%2020250711132129.png|300)
+![Pasted image 20250711132129.png](Pasted%20image%2020250711132129.png)
 
 Then we press `Install`
 We wait for the progress bar to finish
 
-![Pasted image 20250711132255.png|300](Pasted%20image%2020250711132255.png|300)
+![Pasted image 20250711132255.png](Pasted%20image%2020250711132255.png)
 
 When finished, we will receive a message saying the installation is complete.
 You can leave the box checked to launch a browser with the Splunk instance to access the login page directly
 
-![Pasted image 20250711133022.png|300](Pasted%20image%2020250711133022.png|300)
+![Pasted image 20250711133022.png](Pasted%20image%2020250711133022.png)
 
 Here, you can enter the username and password you created during installation
 
-![Pasted image 20250711133106.png|300](Pasted%20image%2020250711133106.png|300)
+![Pasted image 20250711133106.png](Pasted%20image%2020250711133106.png)
 
 If successfully entered, we will land at the dashboard
 
@@ -260,24 +260,24 @@ For the Splunk Forwarder, we go to the splunk webpages and download the official
 Find it in the folder you downloaded it to, and run the installer for the forwarder
 We aaccept the license agreement, and for the Forwarder, choose to install as an on-premises instance, as this is the case for our setup
 
-![Pasted image 20250711134424.png|300](Pasted%20image%2020250711134424.png|300)
+![Pasted image 20250711134424.png](Pasted%20image%2020250711134424.png)
 
 Uncheck "generate random password" and enter your wanted credentials
 
-![Pasted image 20250711134532.png|300](Pasted%20image%2020250711134532.png|300)
+![Pasted image 20250711134532.png](Pasted%20image%2020250711134532.png)
 
 This next step is optional if you are not planning on installing the forwarder on multiple hosts, but we can enter localhost here and the default port 8089
 
-![Pasted image 20250711134626.png|300](Pasted%20image%2020250711134626.png|300)
+![Pasted image 20250711134626.png](Pasted%20image%2020250711134626.png)
 
 Give the installer the information for the server here. In this case, we will use localhost and default port number 9997, as specified earlier
 
-![Pasted image 20250711134852.png|300](Pasted%20image%2020250711134852.png|300)
+![Pasted image 20250711134852.png](Pasted%20image%2020250711134852.png)
 
 When finished, we will be met with this screen, where you can directly find more info on forwarding if you want
 Splunk Universal Forwarder will not be installed in `C:\Program Files\SplunkUniversalForwarder`
 
-![Pasted image 20250711135103.png|300](Pasted%20image%2020250711135103.png|300)
+![Pasted image 20250711135103.png](Pasted%20image%2020250711135103.png)
 
 In the Splunk instance in the browser, we can now go see our host details.
 
