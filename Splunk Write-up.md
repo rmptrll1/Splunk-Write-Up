@@ -14,8 +14,6 @@ Now I run Splunk and create a user account since it is the first time running
 
 ![Pasted image 20250710161215.png](Pasted%20image%2020250710161215.png)
 
-user:coffely
-pass:coffely1
 
 ![Pasted image 20250710161337.png](Pasted%20image%2020250710161337.png)
 
